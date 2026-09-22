@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" width="100%" alt="Muhammed Conger | Hardware & Digital Design">
+  <img src="./banner1.png" width="100%" alt="Muhammed Conger | Hardware & Digital Design">
 </p>
 
 ## About
