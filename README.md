@@ -24,9 +24,9 @@ Building and strengthening my digital design fundamentals through **RTL design, 
 
 ## Selected Work
 
-### [Verilog HDL Educational Notes](https://github.com/muhammedconger/verilog)
+### [Verilog HDL Notes](https://github.com/muhammedconger/verilog)
 
-A comprehensive educational study covering **Verilog HDL and digital design fundamentals**, developed during my earlier digital design studies.
+Technical notes developed and expanded during my Verilog HDL studies, covering **digital design, RTL modeling, testbenches, FSMs, memory modeling and synthesis**.
 
 ---
 
