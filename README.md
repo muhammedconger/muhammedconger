@@ -1,16 +1,13 @@
-## Hi there 👋
+# Muhammed Conger
 
-<!--
-**muhammedconger/muhammedconger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electrical & Electronics Engineer focused on hardware and digital design.
 
-Here are some ideas to get you started:
+## Areas of Interest
+- Digital Design
+- FPGA & Verilog HDL
+- RTL Design & Verification
+- Hardware & PCB Design
+- SoC & ASIC Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+Building and strengthening my digital design fundamentals through RTL design, simulation, verification and FPGA projects.
