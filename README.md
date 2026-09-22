@@ -2,7 +2,8 @@
 
 Electrical & Electronics Engineer focused on hardware and digital design.
 
-## Areas of Interest
+## Technical Focus
+
 - Digital Design
 - FPGA & Verilog HDL
 - RTL Design & Verification
@@ -10,4 +11,5 @@ Electrical & Electronics Engineer focused on hardware and digital design.
 - SoC & ASIC Design
 
 ## Current Focus
+
 Building and strengthening my digital design fundamentals through RTL design, simulation, verification and FPGA projects.
