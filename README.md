@@ -13,7 +13,7 @@ Former Reserve Officer of the Turkish Air Force.
 ## Technical Focus
 
 - Digital Design
-- FPGA & Verilog HDL
+- FPGA
 - RTL Design & Verification
 - Hardware & PCB Design
 - SoC & ASIC Design
