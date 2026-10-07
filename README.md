@@ -1,21 +1,12 @@
-<p align="center">
-  <img src="./banner.png" width="100%" alt="Muhammed Conger | Hardware & Digital Design">
-</p>
-
 ## About
 
-Electrical & Electronics Engineer focused on **hardware and digital design**, with a long-term technical path toward **RTL design, verification, FPGA and SoC/ASIC development**.
-
-My engineering background includes electronic hardware and PCB design, R&D, IoT systems, manufacturing, testing and commissioning.
-
-Former Reserve Officer of the Turkish Air Force.
+Electrical & Electronics Engineer focused on **digital design**, with a long-term technical path toward **RTL design, FPGA, verification and SoC/ASIC development**.
 
 ## Technical Focus
 
 - Digital Design
-- FPGA
-- RTL Design & Verification
-- Hardware & PCB Design
+- RTL Design & FPGA
+- Verification
 - SoC & ASIC Design
 
 ## Current Focus
@@ -30,4 +21,4 @@ Technical notes developed and expanded during my Verilog HDL studies, covering *
 
 ---
 
-**Defense Industry • High Technology • Hardware • Digital Design**
+**Defense Industry • Digital Design**
